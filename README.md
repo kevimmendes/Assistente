@@ -4,8 +4,7 @@ App para Windows que vive no topo da tela: mostra e responde seus agentes de có
 dita o que você fala, conversa com a IA que você já paga e junta suas integrações num
 lugar só — sem você sair do que estava fazendo.
 
-Esta é uma versão renomeada e mantida por **K**, feita a partir do projeto
-[Coucou](https://github.com/Louis-CFM/coucou), de Louis Raille. O código é o mesmo; o
+Esta é uma versão renomeada e mantida por **K**, feita a partir de uma referencia. O código é o mesmo; o
 nome, os textos e o instalador é que passaram a dizer Assistente.
 
 ## O que ele faz
